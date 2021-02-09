@@ -1,0 +1,2 @@
+# SSVEP-BASED-BCI-SYSTEM
+This repository was initially produced in the process of an BSc thesis at North South University. The main purpose of this repository is to give an overview of the developed OpenVibe scenarios and ROS packages for setting up a brain-computer interface (BCI) for controlling the UR5 and Franka Emika Panda robots using the OpenBCI Cyton/Ultracortex EEG headset. The whole system was set up on Ubuntu 16.04 because of ROS, but the BCI software on OpenVibe can be used on any other OS.
